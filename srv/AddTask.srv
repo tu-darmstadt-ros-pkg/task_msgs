@@ -1,0 +1,8 @@
+# This service adds a task or changes an existing task, if the task_id is set and a corresponding task exists
+
+# The task to be added
+Task task
+
+---
+# The id of the added task
+string task_id

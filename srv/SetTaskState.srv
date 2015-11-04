@@ -1,0 +1,5 @@
+# This service sets the state of the task with corresponding task_id
+
+string task_id
+TaskState new_state
+---

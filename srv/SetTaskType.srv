@@ -1,0 +1,5 @@
+# This service sets the type of the task with corresponding task_id
+
+string task_id
+string type
+---

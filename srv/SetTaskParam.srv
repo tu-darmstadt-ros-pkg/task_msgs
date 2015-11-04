@@ -1,0 +1,14 @@
+# This service sets a parameter of a task
+
+# A string identifying the specific task
+string task_id
+
+# index = -1 means no float param is set
+int8 indexFloat
+float32 paramFloat
+
+# indexBool = -1 means no bool param is set
+int8 indexBool
+bool paramBool
+
+---

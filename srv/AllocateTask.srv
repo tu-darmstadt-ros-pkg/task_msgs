@@ -1,0 +1,5 @@
+# This service allocates a task with corresponding task_id to a robot and sets the state to IN_PROGRESS
+
+string task_id
+string robot
+---
